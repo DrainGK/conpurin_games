@@ -1,0 +1,129 @@
+{
+    "Tops":[
+        {
+            "title": "Nogizaka46",
+            "desc": "お気に入りはどれですか?",
+            "id": 87387684989,
+            "categorie": "アイドル",
+            "img": "/img/idole.png",
+            "ELO": 1500,
+            "player": [
+              {
+                "name": "Endo",
+                "img": "/img/endo.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Hayashi",
+                "img": "/img/hayashi.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Ichinose",
+                "img": "/img/ichinose.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Ikeda",
+                "img": "/img/ikeda.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Inoue",
+                "img": "/img/inoue.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Ioki",
+                "img": "/img/ioki.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Itoriria",
+                "img": "/img/itoriria.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Iwamoto",
+                "img": "/img/iwamoto.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Kaki",
+                "img": "/img/kaki.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Kawasaki",
+                "img": "/img/kawasaki.webp",
+                "elo": 1500
+              },
+              {
+                "name": "Kubo",
+                "img": "/img/kubo.webp",
+                "elo": 1500
+              }
+            ]
+          },
+          {
+            "title": "Snacks",
+            "desc": "一番美味しいとは?",
+            "id": 8736845986,
+            "categorie": "お菓子",
+            "img": "/img/products.png",
+            "ELO": 1500,
+            "player": [
+              {
+                "name": "Ajiichiban",
+                "img": "/img/ajiichiban.png",
+                "elo": 1500
+              },
+              {
+                "name": "Bataskochsand",
+                "img": "/img/bataskochsand.png",
+                "elo": 1500
+              },
+              {
+                "name": "Cupramen",
+                "img": "/img/cupramen.png",
+                "elo": 1500
+              },
+              {
+                "name": "Imokenpi",
+                "img": "/img/imokenpi.png",
+                "elo": 1500
+              },
+              {
+                "name": "Kandemina",
+                "img": "/img/kandemina.png",
+                "elo": 1500
+              },
+              {
+                "name": "Karamucho",
+                "img": "/img/karamucho.png",
+                "elo": 1500
+              },
+              {
+                "name": "Karinto",
+                "img": "/img/karinto.png",
+                "elo": 1500
+              },
+              {
+                "name": "Kyuntoichigo",
+                "img": "/img/kyuntoichigo.png",
+                "elo": 1500
+              },
+              {
+                "name": "Ogurabumu",
+                "img": "/img/ogurabumu.png",
+                "elo": 1500
+              },
+              {
+                "name": "Supamucho",
+                "img": "/img/supamucho.png",
+                "elo": 1500
+              }
+            ]
+          }
+    ]
+}
