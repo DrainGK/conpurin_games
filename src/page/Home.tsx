@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { CardType, TopType } from '../utils/Types';
+import { TopType } from '../utils/Types';
 import Card from '../components/Card';
 import { Link } from 'react-router-dom';
 
