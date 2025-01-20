@@ -12,6 +12,7 @@ export interface CardType {
     title: string;
     desc: string;
     img: string;
+    index: number;
 }
 
 export interface PlayerType {

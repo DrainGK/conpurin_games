@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'radial': 'radial-gradient(circle, #FF61B2, #FE0D89)',
+        'radial-pink': 'radial-gradient(circle, #FF61B2, #FE0D89)',
+        'radial-orange': 'radial-gradient(circle, #FFEA04, #FF9800)'
       },
     },
     fontFamily: {
